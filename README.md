@@ -5,6 +5,8 @@ Grab the article at [https://medium.com/@kelvin_sp/building-and-testing-a-rest-a
 
 ## Tips/Run
 
+* Get packages: mux (`go get github.com/gorilla/mux`) / mysql (`go get github.com/go-sql-driver/mysql`)
+
 ## What's it all about?
 
 * ..."we will learn how to build and test a simple REST API in Go using Gorilla Mux router and the MySQL database. We will also create the application following the test-driven development (TDD) methodology"...
